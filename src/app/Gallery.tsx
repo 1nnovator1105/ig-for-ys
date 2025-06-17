@@ -14,6 +14,13 @@ const images = [
   "IMG_0178.JPG",
   "IMG_0186.JPG",
   "IMG_0219.JPG",
+  "IMG_0327.JPG",
+  "IMG_0331.JPG",
+  "IMG_0339.JPG",
+  "IMG_0385.JPG",
+  "IMG_0410.JPG",
+  "IMG_0415.JPG",
+  "IMG_0417.JPG",
 ];
 
 export default function Gallery() {
